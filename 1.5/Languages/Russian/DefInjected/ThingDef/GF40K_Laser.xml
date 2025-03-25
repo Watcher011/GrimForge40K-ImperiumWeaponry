@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <GF40K_BeamGraphic.label>лазерный луч</GF40K_BeamGraphic.label>
+
+<GF40K_LaserPistol.label>лазпистолет</GF40K_LaserPistol.label>
+<GF40K_LaserPistol.description>Лазпистолет — это компактное и надежное оружие, которое выпускает жгучий энергетический луч с восхитительной скоростью и мощными бронебойными возможностями. Как верный спутник в пылу битвы, он гарантирует, что солдаты смогут быстро и точно реагировать на угрозы. Будь то для личной обороны или в качестве завершающего инструмента в ближнем бою, энергичная ярость лазпистолета служит смертельным напоминанием о решимости его владельца.</GF40K_LaserPistol.description>
+<GF40K_LaserPistol.tools.0.label>рукоятка</GF40K_LaserPistol.tools.0.label>
+<GF40K_LaserPistol.tools.1.label>ствол</GF40K_LaserPistol.tools.1.label>
+
+<GF40K_LaserBullet.label>пуля лазпистолета</GF40K_LaserBullet.label>
+
+<GF40K_LaserGun.label>лазган</GF40K_LaserGun.label>
+<GF40K_LaserGun.description>Лазган — это прочный элемент поля боя, который выпускает неумолимый шквал сфокусированных энергетических лучей, которые с упорной решимостью пробивают броню. Его умеренная скорострельность дает солдатам возможность вести длительные перестрелки с врагами, что делает его универсальным оружием как для ближнего боя, так и для сражений на средней дистанции. Независимо от того, сталкиваетесь ли вы с ордами проклятых или тяжелобронированными противниками, несокрушимые энергетические лучи лазгана возвещают гибель любому, кто осмелится противостоять ему.</GF40K_LaserGun.description>
+<GF40K_LaserGun.tools.0.label>рукоятка</GF40K_LaserGun.tools.0.label>
+<GF40K_LaserGun.tools.1.label>ствол</GF40K_LaserGun.tools.1.label>
+
+<GF40K_LaserGunBullet.label>пуля лазгана</GF40K_LaserGunBullet.label>
+
+<GF40K_LaserSniper.label>длинноствольный лаз</GF40K_LaserSniper.label>
+<GF40K_LaserSniper.description>Long-las возвышается как орудие смерти стрелка, используя мощь сфокусированного энергетического луча, чтобы пронзать броню с хирургической точностью. Его измеренная скорострельность гарантирует, что каждый выстрел будет тщательно прицельным, обеспечивая разрушительную бронебойную силу на больших расстояниях. Независимо от того, сражаетесь ли вы с тяжелобронированными противниками или с дальними угрозами, Long-las оказывается мстительным судьей любого поля боя, оставляя за собой след из выжженных противников.</GF40K_LaserSniper.description>
+<GF40K_LaserSniper.tools.0.label>рукоятка</GF40K_LaserSniper.tools.0.label>
+<GF40K_LaserSniper.tools.1.label>ствол</GF40K_LaserSniper.tools.1.label>
+
+<GF40K_LaserSniperBullet.label>пуля long-las</GF40K_LaserSniperBullet.label>
+
+<GF40K_LaserSMG.label>лазерный пистолет-пулемет</GF40K_LaserSMG.label>
+<GF40K_LaserSMG.description>Las-SMG — это скорострельное чудо, которое использует быструю последовательность сфокусированных энергетических лучей, которые без усилий прорезают броню и подавляют врагов одним лишь объемом. Высвобождая водоворот энергии, это оружие ближнего боя превосходно справляется как с плотными формированиями противника, так и с бронированными целями. В руках опытного оператора Las-SMG становится неудержимой силой, уничтожая врагов неумолимым штормом жгучей энергии.</GF40K_LaserSMG.description>
+<GF40K_LaserSMG.tools.0.label>рукоятка</GF40K_LaserSMG.tools.0.label>
+<GF40K_LaserSMG.tools.1.label>ствол</GF40K_LaserSMG.tools.1.label>
+
+<GF40K_LaserSMGBullet.label>выстрел из лазерного SMG</GF40K_LaserSMGBullet.label>
+
+<GF40K_LaserCarbine.label>лазкарабин</GF40K_LaserCarbine.label>
+<GF40K_LaserCarbine.description>Lascarbine — это компактное, но смертоносное оружие, которое направляет концентрированный энергетический луч, прорываясь сквозь оборону противника с поразительной скоростью и бронебойной мощью. Предлагая сбалансированное сочетание мобильности и огневой мощи, это оружие отлично подходит для сражений на средней дистанции, гарантируя быстрые и рассчитанные удары как по бронированным целям, так и по ловким противникам. В руках опытного пользователя лазкарабин танцует со смертоносной грацией, оставляя за собой след из поверженных врагов.</GF40K_LaserCarbine.description>
+<GF40K_LaserCarbine.tools.0.label>рукоятка</GF40K_LaserCarbine.tools.0.label>
+<GF40K_LaserCarbine.tools.1.label>ствол</GF40K_LaserCarbine.tools.1.label>
+
+<GF40K_LaserCarbineBullet.label>пуля лазкарабин</GF40K_LaserCarbineBullet.label>
+
+
+</LanguageData>
