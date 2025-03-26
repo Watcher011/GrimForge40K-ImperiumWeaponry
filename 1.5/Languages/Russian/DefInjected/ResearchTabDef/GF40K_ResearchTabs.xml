@@ -3,7 +3,7 @@
 
   <!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
 
-  <GF40K.label>GrimForge 40K</GF40K.label>
+  <GF40K.label>Мрачная Кузница 40К</GF40K.label>
 
 
 </LanguageData>

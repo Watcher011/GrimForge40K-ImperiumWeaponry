@@ -9,13 +9,13 @@
 
 <!-- Новый -->
 
-<GF40K_RelicChainAxe.label>Реликвия цепной топор</GF40K_RelicChainAxe.label>
+<GF40K_RelicChainAxe.label>Реликтовый цепной топор</GF40K_RelicChainAxe.label>
 <GF40K_RelicChainAxe.description>...</GF40K_RelicChainAxe.description>
 <GF40K_RelicChainAxe.tools.0.label>задняя сторона</GF40K_RelicChainAxe.tools.0.label>
 <GF40K_RelicChainAxe.tools.1.label>цепь</GF40K_RelicChainAxe.tools.1.label>
 <GF40K_RelicChainAxe.tools.2.label>рукоятка</GF40K_RelicChainAxe.tools.2.label>
 
-<GF40K_RelicEviscerator.label>Реликвия потрошитель</GF40K_RelicEviscerator.label>
+<GF40K_RelicEviscerator.label>Реликтовый потрошитель</GF40K_RelicEviscerator.label>
 <GF40K_RelicEviscerator.description>Реликтовый потрошитель — это внушительное и смертоносное двуручное цепное оружие, настроенное и адаптированное для отражения Реликтности и боевого стиля его владельца. Его массивное лезвие обладает острым краем и режущей силой, способной калечить и уничтожать с непревзойденной эффективностью. Те, кто размахивает Реликтовым Потрошителем, делают это с яростной решимостью оставить свой след на поле боя.</GF40K_RelicEviscerator.description>
 <GF40K_RelicEviscerator.tools.0.label>задняя сторона</GF40K_RelicEviscerator.tools.0.label>
 <GF40K_RelicEviscerator.tools.1.label>цепь</GF40K_RelicEviscerator.tools.1.label>
@@ -26,8 +26,8 @@
 <GF40K_RelicChainSpear.tools.0.label>цепь</GF40K_RelicChainSpear.tools.0.label>
 <GF40K_RelicChainSpear.tools.1.label>рукоять</GF40K_RelicChainSpear.tools.1.label>
 
-<GF40K_RelicPowerSabre.label>Сабля Relic Power</GF40K_RelicPowerSabre.label>
-<GF40K_RelicPowerSabre.description>Сабля Relic Power олицетворяет вершину мастерства и Реликтизации, органично сочетая изящество колющего оружия с чистой мощью ударов, наполненных энергией. Достижение мастерства владения этим оружием требует глубокой синхронизации силы и воинских инстинктов. Однако те, кто владеет мощью Relic Power Sabre, превращаются в грозную молнию на поле боя, прорезая противников с непреклонной силой и неукротимой решимостью, не боясь усталости.</GF40K_RelicPowerSabre.description>
+<GF40K_RelicPowerSabre.label>Реликтовая силовая Сабля</GF40K_RelicPowerSabre.label>
+<GF40K_RelicPowerSabre.description>Реликтовая силовая Сабля олицетворяет вершину мастерства и Реликтизации, органично сочетая изящество колющего оружия с чистой мощью ударов, наполненных энергией. Достижение мастерства владения этим оружием требует глубокой синхронизации силы и воинских инстинктов. Однако те, кто владеет мощью Relic Power Sabre, превращаются в грозную молнию на поле боя, прорезая противников с непреклонной силой и неукротимой решимостью, не боясь усталости.</GF40K_RelicPowerSabre.description>
 <GF40K_RelicPowerSabre.tools.0.label>наконечник</GF40K_RelicPowerSabre.tools.0.label>
 <GF40K_RelicPowerSabre.tools.1.label>лезвие</GF40K_RelicPowerSabre.tools.1.label>
 <GF40K_RelicPowerSabre.tools.2.label>рукоять</GF40K_RelicPowerSabre.tools.2.label>

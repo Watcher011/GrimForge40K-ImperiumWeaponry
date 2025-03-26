@@ -17,8 +17,8 @@
 
 <!-- Снайпер -->
 
-<GF40K_BoltSniperRelic.label>реликтовая винтовка-снайпер</GF40K_BoltSniperRelic.label>
-<GF40K_BoltSniperRelic.description>Снайперская винтовка-снайпер Relic Bolt является священной реликвией среди снайперы, воплощающие вершину меткости и смертоносной точности. Благодаря расширенному магазину, вмещающему два смертельных патрона калибра 0,75, его пули одинаково пробивают броню и плоть.</GF40K_BoltSniperRelic.description>
+<GF40K_BoltSniperRelic.label>реликтовая снайперская винтовка</GF40K_BoltSniperRelic.label>
+<GF40K_BoltSniperRelic.description>Снайперская реликтовая винтовка- является священной реликвией среди снайперы, воплощающие вершину меткости и смертоносной точности. Благодаря расширенному магазину, вмещающему два смертельных патрона калибра 0,75, его пули одинаково пробивают броню и плоть.</GF40K_BoltSniperRelic.description>
 <GF40K_BoltSniperRelic.tools.0.label>ложа</GF40K_BoltSniperRelic.tools.0.label>
 <GF40K_BoltSniperRelic.tools.1.label>ствол</GF40K_BoltSniperRelic.tools.1.label>
 
